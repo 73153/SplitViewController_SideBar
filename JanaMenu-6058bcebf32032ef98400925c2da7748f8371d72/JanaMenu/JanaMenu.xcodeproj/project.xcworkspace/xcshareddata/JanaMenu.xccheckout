@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>5E4A0146-3F70-4A48-A3FB-83633E078E2B</string>
+	<key>IDESourceControlProjectName</key>
+	<string>JanaMenu</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>24280D65F1F0BA9F56746998A06A92531F18AA9F</key>
+		<string>https://github.com/Khac/JanaMenu.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>JanaMenu/JanaMenu.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>24280D65F1F0BA9F56746998A06A92531F18AA9F</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Khac/JanaMenu.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>24280D65F1F0BA9F56746998A06A92531F18AA9F</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>24280D65F1F0BA9F56746998A06A92531F18AA9F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>JanaMenu</string>
+		</dict>
+	</array>
+</dict>
+</plist>
